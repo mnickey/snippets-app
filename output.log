@@ -1,43 +1,38 @@
-INFO:root:Writing 'spam':'eggs' to 'snippets.csv'
-DEBUG:root:Opening file
-DEBUG:root:Writting snippet to file...
-DEBUG:root:Write Sucessful
-INFO:root:Writing 'green eggs':'ham' to 'snippets.csv'
-DEBUG:root:Opening file
-DEBUG:root:Writting snippet to file...
-DEBUG:root:Write Sucessful
-INFO:root:Starting Snippets
-INFO:root:Constructing parser
-INFO:root:Starting Snippets
-INFO:root:Constructing parser
 INFO:root:Starting Snippets
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
 INFO:root:Starting Snippets
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
 INFO:root:Starting Snippets
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
 INFO:root:Starting Snippets
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
 INFO:root:Starting Snippets
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
 INFO:root:Starting Snippets
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
 INFO:root:Starting Snippets
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'spam':'snippets.csv' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
 INFO:root:Starting Snippets
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
-INFO:root:Starting Snippets
-INFO:root:Constructing parser
-DEBUG:root:Constructing put subparser
-INFO:root:Writing 'spammy':'eggy' to 'snippets.csv'
-DEBUG:root:Opening file
-DEBUG:root:Writting snippet to file...
-DEBUG:root:Write Sucessful
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'spam':'eggs' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
