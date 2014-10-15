@@ -1,0 +1,12 @@
+INFO:root:Writing 'spam':'eggs' to 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Writing 'green eggs':'ham' to 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
