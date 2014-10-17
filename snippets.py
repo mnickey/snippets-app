@@ -1,11 +1,12 @@
-import logging
-import csv
+import logging, csv
+# import csv
 import argparse
 import sys
 
 # Set the log output file, and the log level
 logging.basicConfig(filename="output.log", level=logging.DEBUG)
 
+# Create a function to write the snippet
 def put(name, snippet, filename):
 	""" Store a snippet with an associated name in the CSV file """
 	logging.info("Writing {!r}:{!r} to {!r}".format(name, snippet, filename))
@@ -17,17 +18,19 @@ def put(name, snippet, filename):
 	logging.debug("Write Sucessful")
 	return name, snippet
 
-def get(name, snippet, filename):
-	logging.info("Retreiving {!r}:{!r} to {!r}".format(name, snippet, filename))
+# Create the fucntion to read a snippet
+def get(name, filename):
+	logging.info("Retreiving {!r} to {!r}".format(name, filename))
 	logging.debug("Opening and reading file")
 	with open(filename, "r") as f:
-		reader = csv.reader(f)
+		reader = csv.reader(f, delimiter=",")
 		logging.debug("Reading file for snippet")
 		for row in reader:
-			if row == snippet:
-				print snippet
-	return
+			if row[0] == name:
+				return name, row[1]
+	return name, "Error!"
 
+# Create the parsers for command line execution
 def make_parser():
 	""" Construct a command line parser """
 	logging.info("Constructing parser")
@@ -44,10 +47,11 @@ def make_parser():
 	put_parser.add_argument("filename", default="snippets.csv", nargs="?",
                             help="The snippet filename")
 
+	# Create the 'get' subparser
 	logging.debug("Constructing get parser")
 	get_parser = subparsers.add_parser("get", help="retrieve a snippet")
 	get_parser.add_argument("name", help="The name of the snippet")
-	get_parser.add_argument("snippet", help="The snippet text")
+	# get_parser.add_argument("snippet", help="The snippet text")
 	get_parser.add_argument("filename", default="snippets.csv", nargs="?",
 							help="The source where the snippet exists")
 	return parser
@@ -66,8 +70,13 @@ def main():
 		print "Stored {!r} as {!r}".format(snippet, name)
 
 	if command == "get":
-		name, filename = get(**arguments)
-		print "Retrieved {!r} from {!r}".format(name, filename)
+		name, snippet = get(**arguments)
+		if snippet == "Error!":
+			print "Could not find snippet '{}'".format(arguments["name"])
+		else:
+			print "Retrieved '{}' as '{}'".format(snippet, name)
+		# else: 
+		# 	print "Retrieved {!r} from {!r}".format(snippet, name)
 
 if __name__ == '__main__':
 	main()
