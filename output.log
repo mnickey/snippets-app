@@ -36,3 +36,318 @@ DEBUG:root:Constructing get parser
 INFO:root:Retreiving 'spam':'eggs' to 'snippets.csv'
 DEBUG:root:Opening and reading file
 DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'spam':'snippets.csv' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'spam':'eggs' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'list comprehension':'python-notes.csv' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Writing 'list comprehension':'[item for item in items]' to 'python-notes.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'list comprehension':'python-notes.csv' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Writing 'list comprehension':'[item for item in items]' to 'python-notes.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'list comprehension':'python-notes.csv' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'list comprehension' to 'python-notes.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'list comprehension' to 'python-notes.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Writing 'spam2':'eggs2' to 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'spam2' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'spam2' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'spam22' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'spam22' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'spam2' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'spam2' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'list comprehension' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'list comprehension' to 'python-notes.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Writing 'Hammer':'Nails' to 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'Hammer' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Writing 'Hammer':'Nails' to 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'Hammer' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Writing 'Hammer':'Nails' to 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'Hammer' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'Hammer2' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Writing 'Hammer':'Nails' to 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'Hammer2' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Writing 'Hammer':'Nails' to 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'Hammer2' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'Hammer' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Writing 'list comprehension':'[item for item in items]' to 'python-notes.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'list comprehension' to 'python-notes.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'Hammer1212' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'Hammer' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Writing 'Hammer':'Nails' to 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'Hammer' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Writing 'list comprehension':'[item for item in items]' to 'python-notes.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writting snippet to file...
+DEBUG:root:Write Sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'list comprehension' to 'python-notes.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'non-existant' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
+INFO:root:Starting Snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get parser
+INFO:root:Retreiving 'non-existant' to 'snippets.csv'
+DEBUG:root:Opening and reading file
+DEBUG:root:Reading file for snippet
